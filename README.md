@@ -1,1 +1,2 @@
-# openrisc2020.github.io
+www.openrisc.com
+openrisc.com
